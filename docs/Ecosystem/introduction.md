@@ -1,6 +1,6 @@
 ---
-title: Introduction
-excerpt: Explore the Story Ecosystem
+title: Введение
+excerpt: Исследуйте экосистему Story
 deprecated: false
 hidden: false
 metadata:
@@ -10,22 +10,22 @@ metadata:
 next:
   description: ''
 ---
-Story provides a versatile framework to manage the entire lifecycle of IP development, enabling features like provenance, contribution tracking, frictionless licensing, and revenue sharing. The protocol has been designed with modularity and extensibility in mind, allowing developers to build a diverse array of applications on top of it, including generative AI, fandom platforms, gaming, franchise management, DeFi, social media, and DAO.
+Story предоставляет универсальную платформу для управления полным жизненным циклом разработки интеллектуальной собственности (IP), включая такие функции, как отслеживание происхождения, учет вклада, упрощенное лицензирование и распределение доходов. Протокол разработан с учетом модульности и расширяемости, что позволяет разработчикам создавать разнообразные приложения на его основе, включая генеративный ИИ, платформы для фанатов, игры, управление франшизами, DeFi, социальные медиа и DAO.
 
-The [Story Explorer](https://explorer.story.foundation/) provides a comprehensive view of transactions on-chain and is there to assist in debugging during development.
+[Story Explorer](https://explorer.story.foundation/) предоставляет полный обзор транзакций в блокчейне и помогает в отладке во время разработки.
 
-Additionally, we are sharing some applications that can be built under the ecosystem, and you are welcome to share your bold ideas and applications built with Story Protocol.
+Кроме того, мы делимся примерами решений, которые можно создать в рамках экосистемы. Вы также можете предложить свои смелые идеи и приложения, созданные с использованием блокчейн Story.
 
-* [Content Remixing Mobile App](doc:content-remixing-mobile-app)
-* [Content Management System and Collaboration Hub](doc:content-management-system-and-collaboration-hub)
-* [IP Licensing Platform](doc:ip-licensing-platform)
-* [AI-generated Assets Marketplace](doc:ai-generated-assets-marketplace)
-* [DeFi Applications and RWA](doc:defi-applications-and-rwa)
-* [Capital Formation Platform](doc:capital-formation-platform)
-* [External Hooks](doc:external-hooks)
+* [Мобильное приложение для ремиксов контента](doc:content-remixing-mobile-app)
+* [Система управления контентом и центр сотрудничества](doc:content-management-system-and-collaboration-hub)
+* [Платформа для лицензирования IP](doc:ip-licensing-platform)
+* [Маркетплейс активов, созданных ИИ](doc:ai-generated-assets-marketplace)
+* [Приложения DeFi и RWA](doc:defi-applications-and-rwa)
+* [Платформа для формирования капитала](doc:capital-formation-platform)
+* [Интеграции с внешними сервисами](doc:external-hooks)
 
-# Join Story Academy
+# Присоединяйтесь к Story Academy
 
-The Story Academy is a builder program designed to support, mentor, and accelerate promising entrepreneurs and innovative projects building on Story. We will provide technical expertise, marketing know-how, grants, and investor network introductions matching the level of ambition and execution capability of each admitted project. If you're a visionary builder already working on or planning to build a project on top of Story, we want to talk to you.
+Story Academy — это программа для разработчиков, созданная для поддержки, наставничества и ускорения перспективных предпринимателей и инновационных проектов, работающих с протоколом Story. Мы предоставляем техническую экспертизу, маркетинговую поддержку, гранты и доступ к сети инвесторов, соответствующих уровню амбиций и возможностей каждого проекта. Если вы являетесь разработчиком, который уже работает над проектом на основе Story или только планирует его разработку, мы хотим с вами связаться.
 
-[Learn more about Story Academy](https://www.story.foundation/academy)
+[Узнайте больше о Story Academy](https://www.story.foundation/academy)
