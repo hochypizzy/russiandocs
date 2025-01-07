@@ -1,31 +1,31 @@
 ---
-title: Capital Formation Platform
-excerpt: Better governance and incentive alignment
+title: Платформа для привлечения капитала
+excerpt: Улучшенное управление и согласование стимулов
 deprecated: false
 hidden: false
 metadata:
   title: ''
   description: >-
-    The document discusses the lessons learned from the 2021 NFT mania,
-    highlighting the importance of oversight, clawback options, and a better
-    funding mechanism to prevent overpromised and underdelivered projects. It
-    suggests implementing a system where the community can approve the gradual
-    release of funds based on project milestones achieved.
+    Документ рассматривает уроки, извлечённые из эйфории NFT 2021 года, подчёркивая
+    важность контроля, опций возврата средств и лучшего механизма финансирования,
+    чтобы избежать проектов с завышенными обещаниями и слабыми результатами.
+    Предлагается внедрить систему, где сообщество сможет одобрять поэтапное
+    выделение средств на основе достигнутых проектом целей.
   robots: index
 next:
   description: ''
   pages:
     - type: basic
       slug: external-hooks
-      title: External Hooks
+      title: Внешние механизмы
 ---
-One lesson learned from the 2021 NFT mania is that too much capital can be crippling to less experienced teams. If you add zero oversight from the community and no clawback options for overfunded NFT projects, it is easy to see how it can become a recipe for disaster - aka overpromised and underdelivered. 
+Один из уроков, извлечённых из эйфории NFT 2021 года, заключается в том, что слишком большой объём капитала может стать проблемным для неопытных команд. К этому можно добавить отсутствие контроля со стороны сообщества и невозможность возврата средств в случае если проект получил больше денег чем они планировали изначально, это легко может привести к провалу — обещаниям на словах и плохой реализации.
 
-We are eager to see the NFT space evolve into more mature stages, and to achieve that, we need a better funding mechanism. Instead of distributing the entirety of the funding raised, the platform should give the participating community a way to approve (e.g., via a “board of overseers”) the gradual release of funds based on milestones achieved. If a project consistently misses deliverables or the quality is far below what is promised, the platform should be able to return the funds to users.
+Мы стремимся к тому, чтобы NFT вышло на более устойчивый уровень. Для этого необходим эффективный механизм финансирования. Вместо того чтобы распределять все собранные средства сразу, платформа должна предоставить сообществу возможность одобрять (например, через "совет надзирателей") постепенное выделение средств по мере достижения проектом определённых этапов. Если проект регулярно не выполняет свои обещания или некачественно выполняет свою работу, пользователи должны иметь возможность вернуть свои средства.
 
-Some additional features
+## Некоторые дополнительные функции
 
-* Projects could also grant specific commercial licenses of their finished IP
-* KYC process to enable participants to join the project's royalty pool
-* Different tiers of contribution allowing and rewards, Kickstarter style
-* Ways for project to share updates and keep backers posted in less intrusive (spammy) ways
+* Проекты могут предоставлять определённые коммерческие лицензии на готовую интеллектуальную собственность
+* Прохождение KYC для участия в распределении роялти проекта
+* Различные уровни вклада с соответствующими наградами, как в стиле Kickstarter
+* Способы для проектов делиться обновлениями и информировать участников без назойливости (спам)
