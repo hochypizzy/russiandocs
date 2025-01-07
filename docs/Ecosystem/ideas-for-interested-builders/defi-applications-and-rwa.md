@@ -1,5 +1,5 @@
 ---
-title: DeFi Applications and RWA
+title: DeFi приложения и RWA
 excerpt: ''
 deprecated: false
 hidden: false
@@ -10,6 +10,7 @@ metadata:
 next:
   description: ''
 ---
-Each IP Asset will be registered as an NFT (ERC-721) on Story Protocol, and the same goes for licenses issued. The protocol was designed for maximum composability so each IP organization (franchise) can access the broader web3 ecosystem, including all the DeFi services already servicing NFT projects. 
+Каждый актив интеллектуальной собственности на Story Protocol будет зарегистрирован как NFT (ERC-721) , то же самое касается и выданных лицензий. Протокол создан так,чтобы обеспечить максимальную совместимость, позволяя каждой организации интеллектуальной собственности получить доступ к широкой экосистеме web3, включая все DeFi-сервисы, которые уже обслуживают проекты NFT.
 
-Many possible services can be built on these assets, such as collateralized loans backed by NFT collectibles or licenses with intrinsic value (upfront payment) or royalty payment expectations, fractionalized ownership of super limited NFT collectibles from popular IP franchises, or crowdfunding/capital formation solutions. One attractive characteristic of IPs registered on Story is their duality as web3 native and real-world assets.
+На этих активах можно создавать различные сервисы, например, кредиты, обеспеченные NFT-коллекционными предметами или лицензиями с предоплатой или роялти, совместное владение редкими NFT из популярных франшиз, а также краудфандинг и сбор капитала. Преимущество интеллектуальных собственностей, зарегистрированных в Story, заключается в том, что они могут быть как активами web3, так и реальными активами.
+
