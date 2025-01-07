@@ -1,6 +1,6 @@
 ---
-title: Public Domain Project
-excerpt: Public Domain Intellectual Properties built with Story Protocol
+title: Проект общественного достояния
+excerpt: Интеллектуальная собственность общественного достояния, построенная с использованием Story Protocol
 deprecated: false
 hidden: true
 metadata:
@@ -10,77 +10,78 @@ metadata:
 next:
   description: ''
 ---
-# Overview
 
-The public domain project introduces public domain intellectual properties to Story Protocol to showcase the concepts in the protocol. The project retrieves **data** from public domain literature for Story Protocol and provides an **explorer** for users to view and operate with this data. The project serves three main purposes:
+# Обзор
 
-* Provide a dashboard to interact with entities on Story Protocol. 
-* Help users learn how Story Protocol works.
-* Provide data on Story Protocol for users to experiment and build on top of.
+Общедоступный прооект представляет интеллектуальную собственность общественного достояния в Story Protocol, чтобы продемонстрировать концепции протокола. Проект извлекает **данные** из публичной литературы для Story Protocol и предоставляет **обозреватель** для пользователей, чтобы они могли просматривать и работать с этими данными. Проект выполняет три основные функции:
 
-## What is the Public Domain?
+* Предоставление панели управления для взаимодействия с элементами в Story Protocol.
+* Помощь пользователям в понимании работы Story Protocol.
+* Предоставление данных о Story Protocol для экспериментов и дальнейшего использования.
 
-Here is the definition of Public Domain on [Wikipedia](https://en.wikipedia.org/wiki/Public_domain):
+## Что такое общественное достояние?
 
-> The public domain (PD) consists of all the creative work to which no exclusive intellectual property rights apply. These rights may have expired, been forfeited, expressly waived, or may be inapplicable. Because no one holds the exclusive rights, anyone can legally use or reference those works without permission.
+Вот определение общественного достояния на [Wikipedia](https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5):
 
-# What Public Domain IPs are Collected
+> Общественное достояние (ОД) включает в себя все творческие работы, на которые не распространяются абсолютные права интеллектуальной собственности. Эти права могут быть истекшими, утраченными, явным отказом или могут быть не применимыми. Поскольку никто не обладает абсолютными правами, любой человек может легально использовать или ссылаться на эти работы без разрешения.
 
-For the Story Protocol Alpha release, the **Public Domain Project** focuses on collecting public domain literary works, focusing on the fiction genre. The workflow includes fetching the data from public websites and storing them in a database. The metadata and contents of the literary works are also organized for optimal access. 
+# Какие IP из общественного достояния собираются
 
-These literary works are collected from the following data sources:
+Для выпуска Alpha версии Story Protocol, **Проект общественного достояния** фокусируется на сборе литературного общественного достояния, с акцентом на жанр художественной литературы. Рабочий процесс включает извлечение данных с публичных сайтов и их хранение в базе данных. Метаданные и содержимое литературных произведений также организуются для более удобного доступа.
+
+Эти литературные произведения собираются из следующих источников:
 
 * [Project Gutenberg](https://www.gutenberg.org/)
 * [Project Domain Super Heroes](https://pdsh.fandom.com/wiki/Category:Comic_Book_Characters)
 * [Public Domain Books](https://www.epubor.com/best-sites-for-public-domain-books.html)
 * [Public Domain Characters](https://pdsh.fandom.com/wiki/Category:Comic_Book_Characters)
 
-The project also collects data from other public available websites that share public domain contents.
+Проект также собирает данные с других общедоступных сайтов, которые делятся произведениями общественного достояния.
 
-# Exploring Public Domain IP in Story Protocol
+# Исследование IP из общественного достояния в Story Protocol
 
-You can visit [Story Protocol Explorer](https://sp-explorer.vercel.app/) to explore the public domain IPs in Story Protocol. You can view all the **Transactions**, **IP Orgs** or **Assets** by clicking the menu item from the left side of the page. If you go to the **IP Orgs** page and click one of the IP Org, you will browse into the IP Org page like the following snapshot.
+Вы можете посетить [Story Protocol Explorer](https://sp-explorer.vercel.app/), чтобы изучить IP из общественного достояния в Story Protocol. Вы можете просматривать все **Транзакции**, **IP Органы** или **Активы**, щелкнув по пункту меню слева на странице. Если вы перейдете на страницу **IP Органы** и кликнете по одному из IP Органов, вы попадете на страницу подробной информации о нем, как показано на следующем снимке.
 
-<Image alt="Snapshot 1: The IP Org Page Detail Information Page" align="center" src="https://files.readme.io/afe5b79-Screen_Shot_2023-12-04_at_10.45.54_AM.png">
-  Snapshot 1: The IP Org Page Detail Information Page
+<Image alt="Снимок 1: Страница подробной информации о IP Органе" align="center" src="https://files.readme.io/afe5b79-Screen_Shot_2023-12-04_at_10.45.54_AM.png">
+  Снимок 1: Страница подробной информации о IP Органе
 </Image>
 
-From *Snapshot 1*, you can see there are two IP assets created under this IP org, and there are three transactions on the bottom. For each transaction, you can click the **TxHash** on the left column to view the Story Protocol transaction, the **Transaction Detail** page shows the **TxHash** link to the Sepolia explorer for the transaction:
+На *Снимке 1* вы можете увидеть два IP актива, созданных в рамках этой IP организации , а также три транзакции внизу. Для каждой транзакции вы можете щелкнуть по **TxHash** в левой колонке, чтобы просмотреть транзакцию в Story Protocol, страница **Детали транзакции** покажет ссылку **TxHash** на исследователь в Sepolia для транзакции:
 
-<Image alt="Snapshot 2: The Transaction Detail Page" align="center" src="https://files.readme.io/aeb6ffb-Screen_Shot_2023-12-04_at_11.58.08_AM.png">
-  Snapshot 2: The Transaction Detail Page
+<Image alt="Снимок 2: Страница деталей транзакции" align="center" src="https://files.readme.io/aeb6ffb-Screen_Shot_2023-12-04_at_11.58.08_AM.png">
+  Снимок 2: Страница деталей транзакции
 </Image>
 
-In the **IPA** tab in *Snapshot 1*, you can view all the IP assets belong to this IP Org, or you can click the **Assets** menu item on the left side to view all the IP Assets in the Story Protocol.
+На вкладке **IPA** на *Снимке 1* вы можете просмотреть все IP активы, принадлежащие этому IP органу, или вы можете кликнуть по пункту меню **Активы** слева, чтобы просмотреть все IP активы в Story Protocol.
 
-> 📘 Note
+> 📘 Примечание
 >
-> The [Story Protocol Explorer](https://sp-explorer.vercel.app/) is not specific for Public Domain data only. You can also view the data you created with Story Protocol.
+> [Story Protocol Explorer](https://sp-explorer.vercel.app/) не предназначен только для данных общественного достояния. Вы также можете просматривать данные, созданные вами в Story Protocol.
 
-# Technical Overview
+# Технический обзор
 
-This section gives you a high level overview of the architecture of Public Domain Project. It leverages a data pipeline approach to retrieve and generate the data from public domain IPs for Story Protocol. The architecture of the pipeline is shown on the following diagram:
+Этот раздел дает высокоуровневый обзор архитектуры проекта общественного достояния. Он использует подход с обработкой данных для получения и создания данных из IP общественного достояния для Story Protocol. Архитектура обработки данных показана на следующей диаграмме:
 
 <Image align="center" width="400px" src="https://files.readme.io/a14e94e-PublicDomain.drawio.png" />
 
-The architecture consists of the following components.
+Архитектура состоит из следующих частей.
 
-## File Processor
+## Обработчик файлов
 
-The file processor is for downloading the online contents of each of book from a specific URL and storing the contents in a backend database. Meanwhile, it also retrieves the metadata for the book via the RDF (Resource Description Framework) URL. While processing the content, it also processes the chapters, tags and authors of each book.
+Обработчик файлов предназначен для загрузки онлайн-содержимого каждой книги с конкретного URL и хранения его в базе данных. Он также извлекает метаданные книги через URL RDF (Resource Description Framework). При обработке контента также обрабатываются теги, главы и авторы каждой из книг.
 
-## Series Processor
+## Обработчик серий
 
-The series processor is used for generating the data types under the management of Story Protocol. It uses ChatGPT and generative AI to generate assets matching the data models in Story Protocol. For example, the processor can split the book into several stories, detect characters from the stories, and detect relationships between stories and characters. The processor also generates the description and images for each character with generative AI.
+Обработчик серий используется для генерации типов данных, управляемых Story Protocol. Он использует ChatGPT и генеративный ИИ для создания активов, соответствующих моделям данных в Story Protocol. Например, обработчик может разделить книгу на несколько историй, определить персонажей в этих историях и установить отношения между историями и персонажами. Обработчик также генерирует описание и изображения для каждого персонажа с помощью генеративного ИИ.
 
-## IP Loader
+## Загрузчик IP
 
-Before interacting with Story Protocol to create IP related data (IP Orgs, IP Asset, Relationship etc), the pipeline requires the IP Loader to generate the parameters to call Story Protocol SDK to perform the actions to create and config these entities. Once the parameters are generated, the pipeline will need store the parameters for the next step.
+Перед взаимодействием с Story Protocol для создания данных, связанных с IP (IP организации, IP Активы, Взаимосвязь  и т.д.),обработки данных требует, чтобы Загрузчик IP создал параметры для вызова SDK Story Protocol для выполнения действий по созданию и настройке этих элементов. После генерации параметров конвейер обработки данных должен сохранить их для следующего шага.
 
-## IP Processor
+## Обработчик IP
 
-The IP processor reads the parameters generated from the last step and creates transactions by calling Story Protocol SDK to create IP entities (IP Orgs, IP Asset and Relationships) for Public Domain. 
+Обработчик IP читает параметры, сгенерированные на последнем шаге, и создает транзакции, вызывая SDK Story Protocol для создания элементов IP (IP организации, IP Активы и Взаимосвязи) для общественного достояния.
 
-# Summary
+# Резюме
 
-We have gone through the introduction of Public Domain Project. Please refer to [Public Domain IP Repository](https://github.com/storyprotocol/public-domain-ip) for the code. We recommend that you continue reading the next section to start learning how to build applications with Story Protocol.
+Мы рассмотрели введение в Проект общественного достояния. Пожалуйста, обратитесь к [Репозиторию IP общественного достояния](https://github.com/storyprotocol/public-domain-ip) для кода. Мы рекомендуем продолжить чтение следующего раздела, чтобы начать изучать, как строить приложения с использованием Story Protocol.
