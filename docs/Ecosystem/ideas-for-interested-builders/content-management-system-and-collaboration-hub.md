@@ -1,6 +1,6 @@
 ---
-title: Content Management System and Collaboration Hub
-excerpt: WordPress/GitHub meets Fandom
+title: Система управления контентом и платформа для сотрудничества
+excerpt: WordPress/GitHub встречает Fandom
 deprecated: false
 hidden: false
 metadata:
@@ -10,15 +10,15 @@ metadata:
 next:
   description: ''
 ---
-GitHub revolutionized content management for software projects. WordPress did the same for web content. We believe a new CMS powered by Story Protocol can become the default solution for creative IP.
+GitHub произвел революцию в управлении контентом для программных проектов. WordPress повторих их успех в веб-контенте. Мы считаем, что новая CMS, основанная на Story Protocol, может стать основным решением для творческих интеллектуальных собственностей.
 
-Story Protocol provides all of the building blocks that capture the atomic components of each IP on-chain, with a comprehensive suite of extensible modules to address the needs of a growing IP franchise. However, Story Protocol is the underlying Git equivalent infrastructure, thus we need a platform like GitHub to become the default go-to for IP owners to register and publish their work, set contribution terms, or create commercial licenses for their IP. 
+Story Protocol предоставляет все необходимые элементы для хранения интеллектуальной собственности на блокчейне, а также набор модулей, которые можно расширять по мере роста проекта. В основе Story Protocol лежит подобная GIT инфрастуктура, поэтому нам нужна платформа, похожая на GitHub, которая будет основным инструментом для владельцев интеллектуальной собственности. На такой платформе они смогут публиквать и регистрировать свои работы, устанавливать условия для участников и создавать лицензии для коммерческого использования своих работ.
 
-Ideally, this platform can handle distributed contributions from collaborators and community members like GitHub, including version control, while still providing the project owner the final control of what to accept and merge into the canon. 
+Будет здорово, если эта платформа позволит членам команды и сообществу вносить свои идеи и изменения, как это можно делать на GitHub, включая управление версиями. При этом владельцу проекта будет дано право решать, что из предложенного включать в окончательную версию проекта, а что нет.
 
-Some additional features:
+Некоторые дополнительные функции:
 
-* Fandom-style wiki pages to outline project details, characters, locations, art style
-* Licensing page for both commercial and non-commercial use cases, including co-creation
-* Request for contribution functionality so project owners can easily post what type of help they are looking for
-* Discussion section to allow community members and fans a way to connect, discuss, and propose
+- Вики-страницы в стиле фан-сообществ для описания деталей проекта, персонажей, локаций, художественного стиля
+- Страница лицензирования для коммерческого и некоммерческого использования, включая совместное создание
+- Функция запроса на помощь, чтобы владельцы проектов могли легко публиковать, какая именно помощь им нужна.
+- Раздел обсуждений, чтобы участники сообщества и фанаты могли общаться, обсуждать и предлагать идеи.
