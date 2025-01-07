@@ -1,6 +1,6 @@
 ---
-title: Content Remixing Mobile App
-excerpt: Instagram filter before the social part
+title: Мобильное приложение для ремикса контента
+excerpt: Фильтры Instagram до социальной части
 deprecated: false
 hidden: false
 metadata:
@@ -10,9 +10,10 @@ metadata:
 next:
   description: ''
 ---
-Instagram didn’t set out to compete with existing giant social networks from day one. Instead, they offered one hyper-focused feature and ensured it was the best in the market - the photo filter app. This differentiating value prop drove millions of users to download it within a year. However, differently from the earlier-mover competitor Hipstamatic, the first popular photo filtering app, Instagram presented two key additions:
 
-* It provided an easy way to export the asset to Facebook and other apps
-* It had a light social component in their app from day one (but never making it their main value prop)
+Instagram не ставил своей целью с первого дня конкурировать с уже существующими гигантами социальных сетей. Вместо этого они предложили одну полезную функцию и сделали её лучшей на рынке — приложение для фотофильтров. Это предложение привлекло миллионы пользователей и обеспечило быстрый рост. Однако, в отличие от более раннего конкурента Hipstamatic(первое популярное приложение для фильтров), Instagram представил два ключевых дополнения:
 
-Story Protocol is particularly suited for large-scale remixing with attribution, providing rich IP graphs for creators to see all remixes and derivatives of their content in one place. We envision a consumer-friendly, simple mobile app allowing anyone to upload original content (video or digital art) with authorized remix/derivative licensing. It can provide creator tools and easy export functionality to existing social platforms. The core differentiation for this app is the rich IP graph. Creators can check the entire remix graph for all of their original content, similar to how one can easily check all nested comments under a post. Like a Twitter comment or quote link, no matter which downstream asset link gets shared, a user can always browse back to the original content that kickstarted it all.
+* Простоту экспорта контента в Facebook и другие социальные сети
+* С самого начала в их приложении присутствовала легкая социальная составляющая (но она так и не стала основной ценностью).
+
+Story Protocol особенно подходит для крупномасштабных ремиксов с с указанием авторства, предоставляя подробные графики интеллектуальной собственности, которые позволяют создателям видеть все ремиксы и производные от их контента в одном месте. Мы представляем собой мобильное приложение для пользователей, которое позволяет загружать оригинальный контент (видео или цифровое искусство) с авторизованными лицензиями на ремиксы/производные. Оно может предоставлять инструменты для создателей и простую функцию экспорта на существующие социальные платформы. Основное отличие этого приложения — это удобный и информативный график интеллектуальной собственности. Создатели могут отслеживать весь график ремиксов для своего оригинального контента, аналогично тому, как можно легко увидеть все вложенные комментарии под постом. Как и в случае с твитами, независимо от того, какой ссылкой на актив делятся, пользователь всегда может вернуться к оригинальному контенту, который стал основой всего.
