@@ -1,6 +1,6 @@
 ---
-title: AI-generated Assets Marketplace
-excerpt: Shutterstock/Getty Images for AI assets
+title: Маркетплейс активов, созданных ИИ
+excerpt: Shutterstock/Getty Images для активов, созданных ИИ
 deprecated: false
 hidden: false
 metadata:
@@ -10,18 +10,18 @@ metadata:
 next:
   description: ''
 ---
-Anyone who has worked on product design, website development, or marketing campaigns for small businesses or early-stage startups understands the cost of creating new visual assets from scratch. That is why stock image platforms like Shutterstock and Getty Images provide a vast catalog of readily available assets for a reasonably cheap price. 
+Любой, кто работал над дизайном продукта, разработкой веб-сайтов или маркетинговыми кампаниями для малого бизнеса или стартапов на ранних стадиях, понимает, насколько дорого стоит создавать новые изображения с нуля. Именно поэтому платформы готовых изображений, такие как Shutterstock и Getty Images, за небольшую стоимость предлагают большую коллекцию готового контента.
 
-It might surprise many that the stock visual asset market is a multi-billion dollar annual revenue business. However, with the advent of generative AI, there is an open window of opportunity for a new type of visual asset marketplace to emerge that serves creators using generative AI models to craft high-quality assets. Midjourney recently updated its Terms & Conditions, granting full ownership of the output to its paid subscribers and providing an excellent opportunity to target its users.
+Многие могут удивиться, но рынок готовых изображений — это бизнес, который приносит миллиарды долларов каждый год . Однако с появлением генеративного ИИ открылись возможности для создания маркетплейсов новых типов, которые будет помогать авторам, использующим модели генеративного ИИ для создания высококачественного материала. Недавно Midjourney обновил свои условия использования, предоставив платным подписчикам полные права на созданный ими контент, что создаёт отличную возможность для привлечения этих пользователей.
 
-Assumptions
+## Предположения
 
-* Quality output prompts are very hard, so the target audience still prefers to buy existing assets that meet their requirement
-* Thanks to the low cost of production, one could offer the most extensive catalog addressing very niche demands
+* Создание качественных запросов для создания контента достаточно сложно, поэтому целевая аудитория всё ещё предпочитает покупать готовые изображения, которые удовлетворяют их потребности.
+* Благодаря низкой себестоимости, производство может предложить самый обширный каталог, отвечающий даже на очень узкие запросы.
 
-Some additional features
+## Некоторые дополнительные функции
 
-* Require prompt submission along with the output asset to check for IP or artist-style infringement
-* Use ZKP or simple hash of prompt to validate that the marketplace is running infringement checks without revealing prompts
-* Unlike a prompt marketplace, the visual asset is the product being sold, so tailor the experience for assets browsing and purchase flow
-* Beyond simple stock image T\&C, enable more advanced licensing that allows creators to incorporate the assets into their IP and participate in the upside (narrative universe, animation, NFT projects, gaming)
+* Обязательное предоставление запроса вместе с контентом для проверки на нарушение авторских прав или стиля художника.
+* Использование доказательств с нулевым разглашением (Zero-Knowledge Proof) или простого хэша запроса для подтверждения, что маркетплейс выполняет проверки на нарушения, не раскрывая сами запросы.
+* В отличие от маркетплейсов запросов, здесь продукт - это изображения, поэтому интерфейс должен быть адаптирован для удобного поиска и покупки контента.
+* Помимо стандартных условий лицензирования готовых изображений, можно предложить расширенные лицензии, которые позволят создателям интегрировать контент в свою интеллектуальную собственность и участвовать в дальнейшей монетизации (например, в рамках нарративных вселенных, анимации, NFT-проектов или игр).
