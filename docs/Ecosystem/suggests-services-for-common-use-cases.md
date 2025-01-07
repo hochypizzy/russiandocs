@@ -1,5 +1,5 @@
 ---
-title: External Services for Common Use-Cases
+title: Внешние сервисы для популярных сценариев
 excerpt: ''
 deprecated: false
 hidden: false
@@ -10,14 +10,15 @@ metadata:
 next:
   description: ''
 ---
-As you build applications in the world of IP, you'll find you might uncover use-cases that require additional corollary services. Our core protocol is purposefully kept generic and focused on the core mechanics of intellectual property. If you require services such as duplicate asset detection, relative rarity scoring, NSFW detection, and the like, we suggest you integrate with dedicated services that special in this. Below is an ecosystem services list categorized by function.
 
-### Image scoring: infringement, rarity and NSFW tagging
+Создавая приложения в мире интеллектуальной собственности, вы можете столкнуться с ситуациями, где потребуются дополнительные сервисы. Наш основной протокол намеренно сделан универсальным и сосредоточен на ключевых механизмах работы с интеллектуальной собственностью. Если вам нужны такие функции, как обнаружение плагиата, оценка уникальности, фильтрация NSFW и другие, мы рекомендуем использовать специализированные сервисы. Ниже представлен список экосистемных проектов, собранных по функциям.
 
-* [Yakoa](https://yakoa.io/): IP protection for the blockchain. Use Yakoa AI to protect intellectual property from duplication, manipulation, and scams. 
-* [Pastel Network](https://pastel.network/): Pastel infrastructure enables existing layer-1 blockchains, decentralized applications, or third-party enterprises to protect creators and collectors. From digital collectibles & media to documents & applications, users and developers are able to certify asset rareness and truly store data forever.
-* [Doppel](https://doppel.com) : Doppel offers several services, such as detecting phishing and brand cyber attacks, phishing, counterfeiting and more. Leading cybersecurity teams use Doppel to protect against threats on emerging and traditional digital channels.
+### Оценка изображений: нарушение прав, редкость и NSFW-теги
 
-### Confidentiality
+* [Yakoa](https://yakoa.io/): Защита интеллектуальной собственности на блокчейне. Используйте Yakoa AI для защиты от плагиата, манипуляций и мошенничества.  
+* [Pastel Network](https://pastel.network/): Инфраструктура Pastel помогает существующим блокчейнам 1 уровня, децентрализованным приложениям или сторонним компаниям защищать создателей и коллекционеров. От цифровых коллекционных объектов и медиа до документов и приложений — пользователи и разработчики могут сертифицировать уникальность активов и навсегда сохранять данные.  
+* [Doppel](https://doppel.com): Doppel предлагает услуги, такие как обнаружение фишинга, кибератак на бренды, подделок и многое другое. Ведущие команды по кибербезопасности используют Doppel для защиты от атак и угроз на новых и традиционных цифровых каналах.
 
-* [Lit Protocol](https://litprotocol.com): Lit is a key management network for decentralized signing and encryption. Create apps and wallets that use secrets without single points of failure.
+### Конфиденциальность
+
+Lit Protocol: Lit — это сеть, предназначенная для управления ключами, которая позволяет безопасно подписывать и шифровать данные в децентрализованных приложениях. С помощью Lit можно создавать приложения и кошельки, которые используют конфидициальные данные исключая риски из-за уязвимых элементов систем.
