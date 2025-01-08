@@ -10,8 +10,8 @@ metadata:
 next:
   description: ''
 ---
-Story protocol uses hooks to integrate external services into workflows. Async hooks can call external oracle service providers to get off-chain data. Some examples include KYC services or IP Infringement detection services.
+Story protocol использует хуки что бы интегрировать внешние сервисы в рабочие процессы. Асинхронные хуки могут вызывать внешние оракулы для получения данных вне блокчейна. Некоторые примеры включают услуги KYC или сервисы для обнаружения нарушений интеллектуальной собственности.
 
-* KYC service like user geographic location identification or age verification
-* External service to verify user’s social network profile
-* Service to detect duplicated IP registration or detection of well-known IP registration
+* Услуги KYC, например, для определения географического положения пользователя или верификации возраста
+* Внешний сервис для проверки профиля пользователя в социальной сети
+* Сервис для обнаружения дублированных регистраций интеллектуальной собственности или выявления известных зарегистрированных IP
