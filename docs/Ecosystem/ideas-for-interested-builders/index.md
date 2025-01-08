@@ -1,5 +1,5 @@
 ---
-title: Ideas for Builders
+title: Идеи для Разработчики 
 excerpt: ''
 deprecated: false
 hidden: false
@@ -10,15 +10,15 @@ metadata:
 next:
   description: ''
 ---
-Below are some useful applications that can be built in the ecosystem, and you are welcome to share your bold ideas and applications built with Story Protocol. If you're a builder, check out our [builder program](https://www.storyprotocol.xyz/builder-program). 
+Ниже приведены несколько полезных приложений которые могут быть построены в экосистеме, а так же мы приглашаем вас поделиться своими смелыми идеями и решений созданными с помощью Story Protocol. Если вы разработчик, обратите внимание на нашу [программу для разработчиков](https://www.storyprotocol.xyz/builder-program).
 
-* **Check out our[Ideas](https://github.com/storyprotocol/ideas)  repo!**
-* [Content Remixing Mobile App](doc:content-remixing-mobile-app)
-* [Content Management System and Collaboration Hub](doc:content-management-system-and-collaboration-hub)
-* [IP Licensing Platform](doc:ip-licensing-platform)
-* [AI-generated Assets Marketplace](doc:ai-generated-assets-marketplace)
-* [DeFi Applications and RWA](doc:defi-applications-and-rwa)
-* [Capital Formation Platform](doc:capital-formation-platform)
-* [External Hooks](doc:external-hooks)
+* **Обратите внимание на наш репозиторий[идей](https://github.com/storyprotocol/ideas)  repo!**
+* [Мобильное приложение для ремиксов контента](doc:content-remixing-mobile-app)
+* [Система управления контентом и центр совместной работы ](doc:content-management-system-and-collaboration-hub)
+* [Площадка лицензирования IP](doc:ip-licensing-platform)
+* [Маркетплей для активов созданных АИ](doc:ai-generated-assets-marketplace)
+* [Приложения DeFi и RWA](doc:defi-applications-and-rwa)
+* [Площадка для формирования капитала](doc:capital-formation-platform)
+* [External Hooks](doc:external-hooks)(ya hz kak это perevodit)
 
 #
